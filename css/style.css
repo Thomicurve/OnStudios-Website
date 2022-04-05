@@ -74,10 +74,18 @@ body {
     width: 210px;
 }
 
+.form-container {
+    width: 80%;
+}
+
 @media screen and (max-width: 765px) {
     .main-home {
         margin-top: 60px;
     }
+    .form-container {
+        width: 95%;
+    }
+
     .description-main {
         margin-top: 50px;
     }
